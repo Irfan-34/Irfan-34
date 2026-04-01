@@ -89,18 +89,7 @@ I’m a Computer Science student passionate about **data analytics, visualizatio
 
 ---
 
-## GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Irfan-34&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irfan-34&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Irfan-34&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## Contact
 
