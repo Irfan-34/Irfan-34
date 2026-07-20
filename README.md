@@ -25,7 +25,7 @@
 I’m a Computer Science student passionate about **data analytics, visualization, and business insights**. I’m the **Co‑Founder of LUNALABS** and a **Finalist at the Indian Startup League 2025**. I build real‑world solutions using **AI, and Data**.
 
 - **Role:** Computer Science Engineer | Data Analyst | Startup Co‑Founder
-- **Education:** B.Tech CSE, MITS Ernakulam (**CGPA: 9.38**)
+- **Education:** B.Tech CSE, MITS Ernakulam (**CGPA: 8.92**)
 
 ---
 
